@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MediaPickerPoject.iml" filepath="$PROJECT_DIR$/MediaPickerPoject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MediaPickerPoject-master.iml" filepath="$PROJECT_DIR$/.idea/modules/MediaPickerPoject-master.iml" group="MediaPickerPoject-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MediaPickerPoject-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MediaPickerPoject-master-app.iml" group="MediaPickerPoject-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mediapicker/com.dmcBig-mediapicker.iml" filepath="$PROJECT_DIR$/.idea/modules/mediapicker/com.dmcBig-mediapicker.iml" group="MediaPickerPoject-master/mediapicker" />
+      <module fileurl="file://$PROJECT_DIR$/mediapicker/mediapicker.iml" filepath="$PROJECT_DIR$/mediapicker/mediapicker.iml" />
+    </modules>
+  </component>
+</project>
